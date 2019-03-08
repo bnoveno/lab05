@@ -1,5 +1,5 @@
 """
-Author: Bianca Noveno
+Author: Bianca Noveno .
 Lab 5: Conditional Statements
 Using conditional statements to plot random points in different quadrats
 Due date: March 15, 2019
