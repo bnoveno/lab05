@@ -1,7 +1,7 @@
 """
 Author: Bianca Noveno
 Lab 5: Conditional Statements
-Using conditional statements to plot random points in different quadrats
+Using conditional statements to plot random points in different quadrats.
 Due date: March 15, 2019
 """
 #import modules
@@ -43,6 +43,12 @@ for i in range (0,500):
             symbol = 'gs'
         else: #lower left
             symbol = 'r*'
+<<<<<<< HEAD
     plt.plot(rand_long, rand_lat, symbol) #plot the random longitude and latitude with corresponding symbol 
 plt.show() #shows plot
 raw_input ("press any key to show the results") 
+=======
+    plt.plot(rand_long, rand_lat, symbol)    
+plt.show()
+raw_input ("press any key to show the results")
+>>>>>>> 8c986e86ce6dd97b4e82046846239ec98776a5b9
